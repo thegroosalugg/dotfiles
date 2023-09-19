@@ -72,3 +72,8 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 sudo /etc/init.d/postgresql start
 sudo /etc/init.d/postgresql start
+sudo /etc/init.d/postgresql start
+sudo /etc/init.d/postgresql start
+sudo /etc/init.d/postgresql start
+sudo /etc/init.d/postgresql start
+sudo /etc/init.d/postgresql start
